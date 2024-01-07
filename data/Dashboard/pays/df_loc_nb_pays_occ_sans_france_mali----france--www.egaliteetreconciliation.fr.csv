@@ -1,0 +1,95 @@
+Pays,Nombre articles pays,Code_ISO3
+États-Unis,102,USA
+Israël,93,ISR
+Russie,49,RUS
+Allemagne,42,DEU
+Syrie,34,SYR
+Chine,28,CHN
+Royaume-Uni,24,GBR
+Iran,18,IRN
+Italie,17,ITA
+Turquie,17,TUR
+Libye,16,LBY
+Algérie,12,DZA
+Liban,11,LBN
+Irak,11,IRQ
+Afghanistan,9,AFG
+Arabie saoudite,9,SAU
+Grèce,9,GRC
+Ukraine,9,UKR
+Brésil,8,BRA
+Égypte,8,EGY
+Espagne,8,ESP
+Inde,7,IND
+Pays-Bas,7,NLD
+Venezuela,7,VEN
+Hongrie,6,HUN
+Maroc,5,MAR
+Roumanie,5,ROU
+Australie,5,AUS
+Suisse,5,CHE
+Pologne,5,POL
+Corée du Sud,5,KOR
+Canada,5,CAN
+Suède,5,SWE
+Qatar,5,QAT
+Tunisie,4,TUN
+Biélorussie,4,BLR
+Norvège,4,NOR
+Argentine,4,ARG
+Belgique,4,BEL
+Chypre,4,CYP
+Albanie,3,ALB
+Madagascar,3,MDG
+Burkina Faso,3,BFA
+République tchèque,3,CZE
+Japon,3,JPN
+Sénégal,3,SEN
+Tchad,3,TCD
+Émirats arabes unis,3,ARE
+Cuba,3,CUB
+Mexique,2,MEX
+Soudan,2,SDN
+Afrique du Sud,2,ZAF
+Colombie,2,COL
+Centrafrique,2,CAF
+Guinée,2,GIN
+Vatican,2,VAT
+Pakistan,2,PAK
+Azerbaïdjan,2,AZE
+Jordanie,2,JOR
+Somalie,2,SOM
+Finlande,2,FIN
+Népal,2,NPL
+Bahreïn,2,BHR
+Slovaquie,2,SVK
+Serbie,2,SRB
+Panama,2,PAN
+Cameroun,1,CMR
+Cambodge,1,KHM
+Mauritanie,1,MRT
+Guyana,1,GUY
+Malte,1,MLT
+Corée du Nord,1,PRK
+Arménie,1,ARM
+Danemark,1,DNK
+Rwanda,1,RWA
+Bulgarie,1,BGR
+Bangladesh,1,BGD
+Yémen,1,YEM
+Indonésie,1,IDN
+République démocratique du Congo,1,COD
+Moldavie,1,MDA
+Géorgie,1,GEO
+Autriche,1,AUT
+Gabon,1,GAB
+Lituanie,1,LTU
+Nouvelle-Zélande,1,NZL
+Viêt Nam,1,VNM
+Bolivie,1,BOL
+Chili,1,CHL
+Haïti,1,HTI
+Costa Rica,1,CRI
+Niger,1,NER
+Équateur,1,ECU
+Philippines,1,PHL

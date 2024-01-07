@@ -1,0 +1,122 @@
+html {
+    background-color: #222222;
+    color: #FFFFFF;
+}
+
+#titre {
+    text-align: center;
+    justify-content: center;
+    color: #FFFFFF;
+    padding: 2rem;
+    font-size: 4rem;
+    font-weight: bold;
+}
+
+h3{
+    margin-top: 4rem;
+}
+
+#dropdown {
+    margin-bottom: 2rem;
+    margin-left: 2rem;
+    margin-right: 2rem;
+}
+
+#tabs{
+    margin-left: 2rem;
+    margin-right: 2rem;
+}
+
+#tabs-content{
+    margin-left: 2rem;
+    margin-right: 2rem;
+    border: 1px solid white;
+    border-top: 0px;
+    background-color: #1E2130;
+    margin-bottom: 5rem;
+}
+
+#pays, #kws, #per {
+    display: flex;
+    height: 60vh;
+    align-content: center;
+    justify-content: center;
+    width: 100%;
+    flex-direction: column;
+    text-align: center;
+}
+
+#paysContent, #kwsContent, #perContent{
+    display: flex;
+}
+
+#map{
+    width: 70%;
+}
+#bar{
+    width: 30%;
+
+}
+
+#barKws, #barPer {
+    width: 70%;
+}
+
+#map, #bar,#barKws, #barPer, #cloudword, #cloudpeople, #imshowPays, #imshowKws, #imshowPer, #scatterPays, #scatterKws, #scatterPer {
+    margin: 1rem;
+}
+
+#paysWord2Vec, #kwsWord2Vec, #perWord2Vec {
+    height: 80vh;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+    width: 100%;
+}
+
+#paysWord2VecContent, #kwsWord2VecContent, #perWord2VecContent {
+    height: 100%;
+    width: 100%;
+    display: flex;
+}
+
+#imshowPays, #imshowKws, #imshowPer, #scatterPays, #scatterKws, #scatterPer {
+    width: 50%;
+}
+
+#kws, #per {
+    width: 100%;
+    display: flex;
+}
+
+#cloudword, #cloudpeople {
+    width: 40%;
+}
+
+/* Ajoutez des styles supplémentaires au besoin */
+
+
+.Select-value-label{
+    color: white !important;
+}
+
+.Select-menu-outer{
+    background-color: #1E2130;
+    color: white;
+}
+
+#tabs > *{
+    background-color: #282d41;
+    color: white;
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+#tabs .tab--selected{
+    background-color: #1E2130;
+    color: white;
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
